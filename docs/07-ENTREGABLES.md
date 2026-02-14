@@ -83,10 +83,9 @@ Lo más importante que aprendí de Git es...
 ---
 ## Repositorio de ejercicios
 
-**Nombre del repositorio en GitHub:** [Pon aquí el nombre exacto]
+**Nombre del repositorio en GitHub:** Mi-Proyecto-Practica
 
-**Enlace público al repositorio:** [Pon aquí el enlace, por ejemplo: https://github.com/TuUsuario/Mi-Proyecto-Practica]
-
+**Enlace público al repositorio:** https://github.com/JorGjaramillo/Mi-Proyecto-Practica.git
 > **Recuerda:** Para aprobar la materia debes entregar tanto el repositorio de ejercicios (completando todos los checkpoints de [EJERCICIO.md](EJERCICIO.md)) como el archivo ALUMNO.md con el enlace a tu repositorio.
 
 ### Paso 3: Ejemplo Completo
@@ -260,21 +259,22 @@ git push          # Repite el push (asegúrate de que no hay errores)
 
 Antes de subir tu archivo, verifica:
 
-- [ ] Creé `ALUMNO.md` en la carpeta raíz
-- [ ] Incluí mi nombre y número de control
-- [ ] Expliqué qué es Git con mis PROPIAS palabras
-- [ ] Definí: Repositorio, Commit, Rama
-- [ ] Listé al menos 5 comandos Git
-- [ ] Escribí una reflexión auténtica
-- [ ] Ejecuté `git add ALUMNO.md`
-- [ ] Ejecuté `git commit` con buen mensaje
-- [ ] Ejecuté `git push`
-- [ ] **Verificación:** Abrí GitHub.com y vi `ALUMNO.md` en mi repositorio
-- [ ] Completé todos los ejercicios de [EJERCICIO.md](EJERCICIO.md) y marqué los checkpoints
-- [ ] Publiqué mi repositorio de ejercicios en GitHub y es público
-- [ ] Incluí el nombre y enlace público al repositorio en ALUMNO.md
+- [X] Creé `ALUMNO.md` en la carpeta raíz
+- [X] Incluí mi nombre y número de control
+- [X] Expliqué qué es Git con mis PROPIAS palabras
+- [X] Definí: Repositorio, Commit, Rama
+- [X] Listé al menos 5 comandos Git
+- [X] Escribí una reflexión auténtica
+- [X] Ejecuté `git add ALUMNO.md`
+- [X] Ejecuté `git commit` con buen mensaje
+- [X] Ejecuté `git push`
+- [X] **Verificación:** Abrí GitHub.com y vi `ALUMNO.md` en mi repositorio
+- [X] Completé todos los ejercicios de [EJERCICIO.md](EJERCICIO.md) y marqué los checkpoints
+- [X] Publiqué mi repositorio de ejercicios en GitHub y es público
+- [X] Incluí el nombre y enlace público al repositorio en ALUMNO.md
 Si completaste TODO → ✅ **¡ENTREGABLE COMPLETO!**
 
+---
 ---
 
 ## 💾 Comando Final
